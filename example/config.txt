@@ -1,0 +1,2 @@
+Prefix plugins/GPUBarnesHut/example/
+Plugin GPUBarnesHut inputfile parameters.txt outputfile none
