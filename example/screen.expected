@@ -24,15 +24,15 @@
 ***********************************************************************************
 [PluMA] Running Plugin: GPUBarnesHut
 configuration: 4 bodies, 10 time steps
-Start of timestep
-TIMESTEP = 0
-TIMESTEP = 1
-TIMESTEP = 2
-TIMESTEP = 3
-TIMESTEP = 4
-TIMESTEP = 5
-TIMESTEP = 6
-TIMESTEP = 7
-TIMESTEP = 8
-TIMESTEP = 9
+Start of timestep 
+TIMESTEP = 0 
+TIMESTEP = 1 
+TIMESTEP = 2 
+TIMESTEP = 3 
+TIMESTEP = 4 
+TIMESTEP = 5 
+TIMESTEP = 6 
+TIMESTEP = 7 
+TIMESTEP = 8 
+TIMESTEP = 9 
 runtime: 0.0013 s  ( 0.3  0.2  0.1  0.1  0.1  0.1 ) = 0.8 ms
